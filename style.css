@@ -1,0 +1,201 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.bookBtn{
+    background-color: #191A23;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+.request{
+    color: black !important;
+    border-color: black !important;
+}
+.bigHeading{
+    font-size: 4rem;
+}
+.firstPara{
+    font-size: 1.4rem;
+}
+.logos{
+    height: 30px;
+    width: 100px;
+}
+.companies{
+    display: flex;
+    justify-content: space-between;
+}
+.services{
+    background-color: #B9FF66;
+}
+.servicesPara{
+    font-size: 1rem;
+}
+.mainCards{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.cardItems{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+ }
+.card1{
+    background-color: #F3F3F3;
+    border: 1px solid black;
+    border-radius: 50px;
+}
+.card2{
+    background-color: #B9FF66;
+    border: 1px solid black;
+    border-radius: 50px;
+}
+.conclusion{
+    background-color: #B9FF66;
+    border: 1px solid black;
+    border-radius: 50px;
+}
+.conclusionPara{
+    font-size: 1.1rem;
+}
+.recearch{
+    background-color: #F3F3F3;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.form{
+    background-color: #F3F3F3;
+    border-radius: 30px;
+    padding: 20px;
+}
+.arrow{
+    background-color: black;
+    border-radius: 100%;
+    padding: 6px;
+}
+
+.learnMore{
+    display: flex;
+}
+.card1Items{
+    display: flex;
+    flex-direction: column;
+}
+.engineHeading{
+    background-color: #B9FF66;
+    border-radius: 20px;
+}
+.Pay-per-click{
+    background-color: #F3F3F3;
+    border-radius: 20px;
+}
+.conclusionHeadings{
+    font-family: Space Grotesk;
+}
+.conclusionItems{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+.conclusionIcons{
+    height: 50px;
+    width: 50px;
+}
+.radioBtn{
+    display: flex;
+}
+.formInputs{
+    background-color: #FFFFFF !important;
+    border: 1px solid black;
+    height: 50px;
+}
+.formMessage{
+    background-color: #FFFFFF !important;
+    border: 1px solid black;
+    height: 150px;
+}
+.formImage{
+    height: 550px;
+}
+.send{
+    width: 100%;
+    background-color: #191A23;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+.footer{
+    background-color: #191A23;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+.footerList{
+ display: flex;
+ color: #FFFFFF;
+ align-items: center;
+ justify-content: center;
+}
+.footerList li{
+    list-style: none;
+    text-decoration: underline;
+    padding: 0 10px;
+}
+.footerIcons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footerContact{
+    background-color: #B9FF66;
+    border: none;
+    padding: 0 15px;
+    border-radius: 5px;
+}
+.footerText p{
+    color: #FFFFFF;
+}
+.subscription{
+    background-color: #292A32;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.subsInput{
+    width: 50%;
+    height: 25%;
+    margin: 0 10px;
+    border-radius: 10px;
+}
+.subsBtn{
+    width: 50%;
+    height: 25%;
+    margin: 0 10px;
+    border-radius: 10px;
+    background-color: #B9FF66;
+}
+.rights{
+    color: #FFFFFF;
+    
+}
+.hrBreak{
+    color: #FFFFFF !important;
+    line-height: 20px;
+}
